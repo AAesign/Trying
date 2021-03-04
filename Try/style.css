@@ -1,0 +1,15 @@
+.frame {
+    border: .5rem solid #000;
+    border-radius: .5rem;
+    width: 50%;
+    height: 95vh;
+}
+
+.frame2 {
+    border: .5rem solid #000;
+    border-radius: .5rem;
+    width: 30%;
+    height: 80vh;
+    margin-left: 10rem;
+    margin-bottom: 5rem;
+}
